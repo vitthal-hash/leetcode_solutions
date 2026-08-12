@@ -5,6 +5,7 @@ repository of my leetcode solutions
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0584-find-customer-referee) |
