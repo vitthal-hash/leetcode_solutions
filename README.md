@@ -6,6 +6,7 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0511-game-play-analysis-i) |
