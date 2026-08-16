@@ -21,10 +21,12 @@ repository of my leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -33,6 +35,7 @@ repository of my leetcode solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -46,4 +49,12 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
