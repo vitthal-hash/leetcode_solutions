@@ -17,6 +17,7 @@ repository of my leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -26,6 +27,7 @@ repository of my leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -56,5 +58,14 @@ repository of my leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
