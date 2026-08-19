@@ -56,6 +56,7 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +70,8 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
