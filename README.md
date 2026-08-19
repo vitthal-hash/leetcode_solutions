@@ -56,12 +56,14 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
