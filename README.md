@@ -16,6 +16,7 @@ repository of my leetcode solutions
 | [0595-big-countries](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
 ## Array
 |  |
 | ------- |
