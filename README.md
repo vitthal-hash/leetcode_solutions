@@ -21,6 +21,7 @@ repository of my leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -111,4 +112,8 @@ repository of my leetcode solutions
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0143-reorder-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
