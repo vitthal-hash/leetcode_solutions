@@ -21,6 +21,7 @@ repository of my leetcode solutions
 | [1045-customers-who-bought-all-products](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/vitthal-hash/leetcode_solutions/tree/master/1075-project-employees-i) |
 ## Array
 |  |
 | ------- |
