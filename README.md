@@ -118,9 +118,22 @@ repository of my leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0035-search-insert-position) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vitthal-hash/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
